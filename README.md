@@ -1,3 +1,4 @@
 ﻿# MachineLearning
-I've created this repo to house some of the work I did relating to ML. So far it only has my 2022-2023 Machine Learning Classwork.
-I will add some more stuff I did outside class soon
+
+This repo houses some of my work in late 2022 in a Machine Learning Course.
+Mostly a surface level overview of popular methods with a more intricate Neural Network prediction task.
